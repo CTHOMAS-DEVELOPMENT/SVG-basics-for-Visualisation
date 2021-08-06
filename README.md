@@ -10,8 +10,11 @@ By now all browser / devices supported SVG sufficiently but his libra
 
 Now this demo shows that JSX (React) supports all aspects of SVG as well and so the creation of vector graphics is much more straight forward for implementing consistent and exciting results accross all device/browser configurations.
 
-## Demo's
+## This application does the following:
 (1) Using pure SVG
 (2) Using SVG with D3 helping
 
-Demo link is at :
+## To deploy and run - assumes that your environment is up to date
+(1) git clone https://github.com/CTHOMAS-DEVELOPMENT/SVG-basics-for-Visualisation.git
+(2) cd into SVG-basics-for-Visualisation
+(3) npm i
